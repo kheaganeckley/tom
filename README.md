@@ -1,7 +1,7 @@
 # tompson sampling 
 
 
-You can find what i did in the tom directory
+You can find what i did in the tom directory or to create the interactive dash board 
 
 
 1) download files from git or clone into a directory through the terminal 
