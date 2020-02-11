@@ -11,10 +11,11 @@ You can find what i did in the tom directory or to create the interactive dash b
 3) type pipenv install dash, plotly, scipy, numpy, pandas in your terminal 
 
 4) in pipfile type :
-
+'
 [scripts]
+'
 start = "python main.py"
-
+'
 
 ,below [source] stuff 
 
